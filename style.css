@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+figure {
+  text-align: center;
+}
+nav a {
+  text-align: center;
+  padding: 10px;
+  background-color: aquamarine;
+}
+figcaption {
+  font-size: small;
+}
+#paragraph {
+text-align: center;
+margin-left: 240px;
+margin-right: 240px;
+}
+#article {
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+div {
+  float: left;
+  background: red;
+  width: 25%;
+  text-align: center;
+}
